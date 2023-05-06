@@ -43,7 +43,7 @@ const ListPage = () => {
           user_image={item.user_image}
           liftsimulation_livelink={item.liftsimulation_livelink}
           liftsimulation_gitlink={item.liftsimulation_gitlink}
-          youtube_video={item.youtube_video}
+          demo_vidoe={item.demo_vidoe}
         />
       ))}
     </Flex>

@@ -6,5 +6,5 @@ export interface LiftCardProps {
   user_image: string
   liftsimulation_livelink: string
   liftsimulation_gitlink: string
-  youtube_video: string
+  demo_vidoe: string
 }
