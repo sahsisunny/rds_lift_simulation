@@ -14,7 +14,7 @@ const ListPage = () => {
     async function fetchData(url: string) {
       try {
         const response = await axios.get(url)
-        const data = JSON.parse(response.data)
+        const data = response.data
         return data
       } catch (error) {
         console.error('Error fetching JSON data:', error)
