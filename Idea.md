@@ -1,0 +1,1 @@
+I want to create a planner app/project that divides the time into 30-minute blocks. Users should be able to select the blocks using checkboxes and assign tasks such as learning Kotlin, working, and sleeping. Can you suggest some ideas?
