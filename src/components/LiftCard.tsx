@@ -32,7 +32,7 @@ const LiftCard = (props: LiftCardProps) => {
           <iframe
             width="100%"
             height="194"
-            src={props.demo_vidoe}
+            src={props.demo_video}
             title="YouTube video player"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
