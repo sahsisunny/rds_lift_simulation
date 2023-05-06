@@ -8,4 +8,3 @@ export interface LiftCardProps {
   liftsimulation_gitlink: string
   youtube_video: string
 }
-

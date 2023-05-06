@@ -22,8 +22,6 @@ import {
 import { TbFloatCenter } from 'react-icons/tb'
 import { Avatar } from '@chakra-ui/avatar'
 
-
-
 const LiftCard = (props: LiftCardProps) => {
   const { isOpen, onOpen, onClose } = useDisclosure()
 
